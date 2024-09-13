@@ -1,0 +1,15 @@
+*{
+    margin:0;
+}
+.main{
+    color:rgb(5, 6, 6);
+    background-color: rgb(17, 20, 20);
+    color:aliceblue
+}
+.main summary{
+    background-color: rgb(71, 71, 93);
+}
+ul{
+    background-color: bisque;
+    padding: 10px;
+}
