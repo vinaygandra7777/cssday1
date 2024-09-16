@@ -4,12 +4,13 @@
 .main{
     color:rgb(5, 6, 6);
     background-color: rgb(17, 20, 20);
-    color:aliceblue
+    color:aliceblue;
 }
 .main summary{
     background-color: rgb(71, 71, 93);
 }
-ul{
-    background-color: bisque;
-    padding: 10px;
+.main2{
+    background-color: rgb(142, 218, 141);
+    padding: 20px;
+    color: rgb(16, 14, 13);
 }
